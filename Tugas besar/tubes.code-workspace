@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "Tugas besar",
+			"path": "."
+		},
+		{
+			"name": "week 4 - ESP32 JSON",
+			"path": "../../week 4/week 4 - ESP32 JSON"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"random": "cpp"
+		}
+	}
+}
